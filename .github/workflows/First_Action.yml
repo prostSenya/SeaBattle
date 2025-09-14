@@ -6,3 +6,8 @@ jobs:
     steps:
       - name: Print Greetings
         run: echo "Hello world"
+  secondjob:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Doodbye
+        run: echo "I go to sleep"
