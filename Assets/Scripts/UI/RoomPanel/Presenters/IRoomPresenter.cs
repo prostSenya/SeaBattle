@@ -5,4 +5,6 @@ namespace UI.RoomPanel.Presenters
         void Enable();
         void Disable();
     }
+    
+    // Coment
 }
